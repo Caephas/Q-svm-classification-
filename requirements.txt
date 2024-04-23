@@ -1,0 +1,6 @@
+qiskit
+qiskit-machine-learning
+scikit-learn
+numpy
+qiskit-aer
+qiskit-ibm-runtime
