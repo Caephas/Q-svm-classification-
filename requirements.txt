@@ -4,3 +4,5 @@ scikit-learn
 numpy
 qiskit-aer
 qiskit-ibm-runtime
+qiskit[visualization]
+matplotlib
