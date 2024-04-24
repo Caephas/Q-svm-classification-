@@ -48,3 +48,5 @@ This will execute the script, which:
 4. Computes the kernel matrices.
 5. Trains the SVM.
 6. Evaluates the classifier and prints the classification accuracy.
+
+   - [Quantum SVM Classifier with Qiskit 🕵🏼](https://triangular-work-0e1.notion.site/Quantum-SVM-Classifier-with-Qiskit-a6ae8079ab2749238ca86532dddc49c8?pvs=4)
